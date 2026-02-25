@@ -31,7 +31,7 @@ int Enque(IntQueue* qu, int x) {
 		qu->rear++;
 
 		if (qu->rear == qu->max) {
-
+			qu->rear = 0;
 		}
 	}
 
