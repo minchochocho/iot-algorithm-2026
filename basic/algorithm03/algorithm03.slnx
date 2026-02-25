@@ -4,9 +4,9 @@
     <Platform Name="x86" />
   </Configurations>
   <Folder Name="/새 폴더1/" />
-  <Project Path="app01/app01.vcxproj" />
-  <Project Path="app02/app02.vcxproj" />
-  <Project Path="app03/app03.vcxproj" />
-  <Project Path="app04/app04.vcxproj" />
-  <Project Path="app05/app05.vcxproj" />
+  <Project Path="app01/app01.vcxproj" Id="56d99b15-3b63-480a-a60c-030c7fe715fb" />
+  <Project Path="app02/app02.vcxproj" Id="91188e50-2289-469e-ad21-d4beb4a343d2" />
+  <Project Path="app03/app03.vcxproj" Id="50ebd00c-41ba-41ab-8289-ba9a945af024" />
+  <Project Path="app04/app04.vcxproj" Id="62852c80-574c-444c-8db6-d972fe70230d" />
+  <Project Path="app05/app05.vcxproj" Id="4714e443-3baa-4d76-a9e2-00b7296ff478" />
 </Solution>
